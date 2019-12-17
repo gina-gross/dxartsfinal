@@ -1,0 +1,8 @@
+Wordpress API
+Wordpress is a blogging and website platform. Wordpress uses a REST API, and this helps Wordpress 
+users connect and access their feeds from other websites and applications, as well as include things
+like widgets and other feeds from outside sources on their Wordpress site. A Wordpress user can use
+their API to retrieve ('GET'), post, edit/update ('PUT'), or delete almost any resource from
+the server. API is kind of confusing and complicated, and with a website like Wordpress, the function-
+ality is quite huge so there are many more ways in which you could use or access information using
+the Wordpress API. You can read more here: https://www.codeinwp.com/blog/wordpress-rest-api/
